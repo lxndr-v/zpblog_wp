@@ -1,6 +1,6 @@
-[submodule "wp-content/zpb_themes"]
-	path = wp-content/zpb_themes
-	url = https://github.com/lxndr-v/themes.git/
 [submodule "wp-content/plugins"]
 	path = wp-content/plugins
 	url = https://github.com/lxndr-v/plugins.git
+[submodule "wp-content/themes"]
+	path = wp-content/themes
+	url = https://github.com/lxndr-v/themes.git/
